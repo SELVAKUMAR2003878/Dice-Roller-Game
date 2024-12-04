@@ -1,5 +1,5 @@
 body {
-    background-image: url(/diceImage/bg5.webp);
+    background-image: url(/diceImage/bg4.jpg);
     background-position: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -10,6 +10,7 @@ body {
 #container{
     text-align: center;
     font-size: 1.3em;
+    margin-top:40px;
     font-style: italic;
     padding: 10px;
     font-weight: bold;
