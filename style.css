@@ -1,3 +1,12 @@
+body {
+    background-image: url(/diceImage/bg5.webp);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+}
+
 #container{
     text-align: center;
     font-size: 1.3em;
